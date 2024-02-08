@@ -1,0 +1,14 @@
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\bin\Debug\net8.0\calculator.exe
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\bin\Debug\net8.0\calculator.deps.json
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\bin\Debug\net8.0\calculator.runtimeconfig.json
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\bin\Debug\net8.0\calculator.dll
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\bin\Debug\net8.0\calculator.pdb
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.AssemblyInfoInputs.cache
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.AssemblyInfo.cs
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.csproj.CoreCompileInputs.cache
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.dll
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\refint\calculator.dll
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.pdb
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\calculator.genruntimeconfig.cache
+c:\Users\Philip Gricius\desktop\programming\c#\calculator\obj\Debug\net8.0\ref\calculator.dll
